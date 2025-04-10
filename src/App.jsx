@@ -3,7 +3,7 @@ import './App.css'
 function App() {
   return (
     <>
-     <p>Tymoteusz Zydkiewicz</p>
+     <p>Tymoteusz Zydkiewicz, Kocham Katarzyne</p>
     </>
   )
 }
